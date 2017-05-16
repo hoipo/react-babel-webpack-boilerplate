@@ -1,5 +1,5 @@
 
-## lesson-1主要内容:构建一套适合 React、ES6 开发的脚手架
+# 一套适合 React、ES6 开发的脚手架
 
 ### Features
 
